@@ -1,5 +1,5 @@
 default:
-  shortname: dh2013
+  es_type: dh2013
   solr_core: dh2013
   tei_solr_xsl: collections/dh2013/scripts/solr_transform_tei.xsl
 
